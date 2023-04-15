@@ -9,5 +9,4 @@ This project is inspired by the arcade game Whack-A-Mole. A mole will come out o
   4. The Player plays until the end of 20 seconds and view the score.
   5. Press refresh to play again.
 
-### Link >>> 
-https://kaijeaw34574.github.io/Whack-A-Mole-Game/
+### Link >>> https://kaijeaw34574.github.io/Whack-A-Mole-Game/
